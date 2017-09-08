@@ -1,5 +1,7 @@
 # ObservableStore
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/obs-store.svg)](https://greenkeeper.io/)
+
 `ObservableStore` is a synchronous in-memory store for a single value,
 that you can subscribe to updates on.
 
